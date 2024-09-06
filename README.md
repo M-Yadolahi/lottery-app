@@ -13,3 +13,9 @@ To install the Lottery Winners App, simply download the `.exe` file from the pro
 3. Click the "🎉 Pick Winners" button to draw the winners.
 4. The winners will be displayed in the text box below.
 5. Click the "💾 Save Winners" button to save the list to your desktop.
+
+6. ## mentour
+
+I developed this project with the invaluable help of my teacher and mentour Miss Mehrnaz Hosseini.
+
+thanks to  [Mehrnaz Hosseini](https://www.instagram.com/mehrnazhosseini01?igsh=MWk0ZWlpM2s0Z3Axbw==) 
