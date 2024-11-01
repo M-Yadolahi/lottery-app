@@ -21,4 +21,4 @@ I developed this project with the invaluable help of my teacher and mentour Miss
 thanks to  [Mehrnaz Hosseini](https://www.instagram.com/mehrnazhosseini01?igsh=MWk0ZWlpM2s0Z3Axbw==) 
 
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/M-Yadolahi/lottery-app/blob/main/demo.mp4)
+![Demo](https://github.com/M-Yadolahi/lottery-app/blob/main/demo-ezgif.com-video-to-gif-converter.gif)
