@@ -19,3 +19,6 @@ To install the Lottery Winners App, simply download the `.exe` file from the pro
 I developed this project with the invaluable help of my teacher and mentour Miss Mehrnaz Hosseini.
 
 thanks to  [Mehrnaz Hosseini](https://www.instagram.com/mehrnazhosseini01?igsh=MWk0ZWlpM2s0Z3Axbw==) 
+
+
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/M-Yadolahi/lottery-app/blob/main/demo.mp4)
